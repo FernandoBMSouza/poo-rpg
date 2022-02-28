@@ -1,0 +1,15 @@
+C:\Users\ferna\Documents\Projetos\poo-rpg\bin\Debug\net6.0\poo-rpg.exe
+C:\Users\ferna\Documents\Projetos\poo-rpg\bin\Debug\net6.0\poo-rpg.deps.json
+C:\Users\ferna\Documents\Projetos\poo-rpg\bin\Debug\net6.0\poo-rpg.runtimeconfig.json
+C:\Users\ferna\Documents\Projetos\poo-rpg\bin\Debug\net6.0\poo-rpg.dll
+C:\Users\ferna\Documents\Projetos\poo-rpg\bin\Debug\net6.0\poo-rpg.pdb
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\poo-rpg.csproj.AssemblyReference.cache
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\poo-rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\poo-rpg.AssemblyInfoInputs.cache
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\poo-rpg.AssemblyInfo.cs
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\poo-rpg.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\poo-rpg.dll
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\refint\poo-rpg.dll
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\poo-rpg.pdb
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\poo-rpg.genruntimeconfig.cache
+C:\Users\ferna\Documents\Projetos\poo-rpg\obj\Debug\net6.0\ref\poo-rpg.dll

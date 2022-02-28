@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\poo-rpg.csproj": {}
+    "C:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\poo-rpg.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\poo-rpg.csproj": {
+    "C:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\poo-rpg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\poo-rpg.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\poo-rpg.csproj",
         "projectName": "poo-rpg",
-        "projectPath": "c:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\poo-rpg.csproj",
+        "projectPath": "C:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\poo-rpg.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\Documents\\Projetos\\poo-rpg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
